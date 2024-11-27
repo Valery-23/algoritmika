@@ -1,0 +1,45 @@
+   <title>
+      <p> https://algoritmika.org/</p>
+   </title>
+<html>
+    <header style="background-сolor:ForestGreen">
+      <img src="https://www.bigtv.ru/storage/goodsImages/215/215511/clear_215511_1.jpg" width="150px" height="150px"/> 
+    </header>
+    <main  style="background-color:black">
+      <h2 style="text-align:center;color:ForestGreen; font-size:30px"> Немного информации </h2>
+      <h1 style="text-align:center;color:ForestGreen; font-size:50px"> об электрогитарах  </h1>
+      <img src="https://wallpaperbat.com/img/481430-esp-guitar-wallpaper-guitar-wallpaper-esp-guitar5-desktop-background.jpg" width="700px" height="500px"/> 
+      <p style="color: white;font-size:20px"  > Электрогитара- разновидность гитары,преобразующие колебания металлических струн в колебания электрического тока.Сигнал со звукоснимателей может быть обработан для получения различных звуковых эффектов и усилен — для воспроизведения через акустическую систему. Слово «электрогитара» возникло от словосочетания «электрическая гитара».  </p>
+      <h2 style="text-align:center;color:ForestGreen; font-size:30px"> Виды электрогитар </h2>
+      <img src="https://ae04.alicdn.com/kf/H0a984efd29124b74b05d5164014ca446C.jpg" width="600px" height="500px"/> 
+      <p style=" color: ForestGreen; font-size:20px"> Полуакустика и джазовые гитары. Это весьма архаичный тип электрогитары с пустым корпусом. Такие гитары почти всегда старые. Сейчас их если и выпускают, то для ценителей ретро-звука, поэтому они всегда дороги. Внешне это очень красивые инструменты. Но для начинающего они малополезны и неудобны.</p>
+      <img src="https://img.goodfon.ru/original/1601x1200/b/81/gitara-fender-telecaster.jpg"  width="600px" height="500px"/> 
+      <p style=" color: ForestGreen; font-size:20px"> Телекастер. Фактически, это первая полноценная электрогитара. На ней два сингла-теле. Телекастер имеет звонкий и грязноватый звук с металлическим окрасом. Есть немало любителей такого саунда, напоминающего об эпохе Ролинг Стоунз. На телекастере можно учиться играть, но получить представление о современном звуке достаточно трудно.</p>
+      <img src="https://avatars.mds.yandex.net/i?id=9f351f28be674ae370278c0d53bfa7cf_l-10805306-images-thumbs&n=13"  width="600px" height="500px"/> 
+      <p style=" color: ForestGreen; font-size:20px"> ФЕНДЕР. Лео Фендер придумал самую популярную электрогитару - Стратокастер. Это гитара с синглами, 22 лада, мензура 650мм, с односторонней машинкой (тремоло), грифом, привинченным на винтах к корпусу. Позднее появились страты со смешанными схемами, где были и хамбакеры. Однако исторически это гитара под синглы. Поэтому свойства стратокастера "сингловые" - резкий звонкий сольный звук. </p>
+      <img src="https://avatars.mds.yandex.net/i?id=358bfc8935ca78c2d602d78685ec89a9_l-5221501-images-thumbs&n=13" width="600px" height="500px"/> 
+      <p style=" color: ForestGreen; font-size:20px">ГИБСОН. В пику Фендеру Гибсон сделал свою электрогитару, непохожую на страт. В просторечии ее называют Леспол. Это небольшая гитара с мензурой 630мм, двумя хамбакерами, простым струнодержателем и вклеенным грифом. Леспол обладает мощным теплым звуком. Это очень изящная и эффектная гитара. Корпус у нее не плоский (как у лаконичного страта), а с выпуклым верхом. Несмотря на все изящество, эту гитару часто используют в тяжелой музыке.</p>
+      <img src="https://avatars.mds.yandex.net/i?id=cd54eb8686a3defc7f0d69c73a1e7c21_l-10959457-images-thumbs&n=13" width="600px" height="500px"/>
+      <p style=" color: ForestGreen; font-size:20px">ИБАНЕЗ. Фирма Ибанез продолжила и развила дело предшественников. Она выпускала "именные" инструменты для звездных гитаристов и виртуозов. И по их желанию соединяла несоединимое и находила новые технические решения, например "флайдроуз" - двустороннюю машинку. Гитары Ибанес имеют самые длинные грифы (24 лада), агрессивный дизайн, смешанные схемы звукоснимателей. Такие гитары используют в самых разных целях, но это всегда сложная и технически заковыристая музыка. Начинать учиться на Ибанезе - все равно что ученику сесть на необъезженную лошадь...</p>
+      <table> 
+        <tr>
+          <td style="color: ForestGreen; "> вид гитары </td>
+          <td style="color: ForestGreen; ">  джазовая гитара </td>
+          <td style="color: ForestGreen;"> Телекастер </td>
+          <td style="color: ForestGreen; "> гипсон </td>
+          <td style="color: ForestGreen; "> ибанез </td>
+        </tr>
+        <tr>
+          <td style="color: ForestGreen; "> годы создания </td>
+          <td style="color: ForestGreen; "> 1920</td>
+          <td style="color: ForestGreen; "> 1940 </td>
+          <td style="color: ForestGreen; "> 1950 </td>
+          <td style="color: ForestGreen; "> 1957  </td>
+        </tr>
+     </table>
+    </main>
+     <footer style="background-color:ForestGreen">
+     <p style="color: white;font-size:20px"  >☆Valery☆</p>
+    <p style="color: white;font-size:20px"  > xxxxxx@xxx.com</p>
+     </footer>
+</html>
